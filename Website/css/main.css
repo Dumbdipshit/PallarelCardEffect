@@ -7,7 +7,7 @@
 .card-container{
     perspective: 500px;
     width: fit-content;
-    padding: 1vw;
+    padding: 1vw 2vw;
 }
 
 .card-image{

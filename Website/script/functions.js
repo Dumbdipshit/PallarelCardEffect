@@ -27,8 +27,8 @@ for(let i = 0; i < cards.length; i++){
         const x = cards[i].offsetWidth / 2;
         const y = cards[i].offsetHeight / 2;
 
-        const intensityX = 40;
-        const intensityY = 20;
+        const intensityX = 30;
+        const intensityY = 15;
 
         let convertX = ((innerX - x)) * intensityX /x;
         let convertY = ((innerY - y)) * intensityY /y;
