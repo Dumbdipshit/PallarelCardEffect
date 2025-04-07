@@ -10,13 +10,15 @@
     padding: 1vw;
 }
 
+.card-image{
+    width: 15vw;
+    height: fit-content;
+}
+
 .card{
-    width: 10vw;
-    height: 13vw;
-    background-color: lightsalmon;
+    width: fit-content;
+    height: fit-content;
     border-radius: 0.5vw;
-    position: relative;
-    overflow: hidden;
     transform-style: preserve-3d;
     transition: 0.2s;
 }
