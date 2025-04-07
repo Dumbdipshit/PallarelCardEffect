@@ -1,7 +1,11 @@
 *{
     margin: 0;
     padding: 0;
-    background-color: lightcyan;
+}
+
+body{
+    background-image: url(../assets/images/balatro-background-image.webp);
+    background-size: cover;
 }
 
 .card-container{
