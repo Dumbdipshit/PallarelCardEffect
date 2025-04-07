@@ -11,7 +11,7 @@ body{
 .card-container{
     perspective: 500px;
     width: fit-content;
-    padding: 1vw 2vw;
+    padding: 2vw 2vw;
 }
 
 .card-image{
